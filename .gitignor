@@ -1,5 +1,0 @@
-*.jar
-.idea
-.git
-bin
-target/*
